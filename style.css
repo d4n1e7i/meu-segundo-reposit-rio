@@ -3,7 +3,9 @@ h1{color: darkgreen;}
 h2{color: #A0522D;}
 p{color: rgb(54, 65, 36); font-size: 30px;}
 img{width: 400px;}
+.conteúdo{margin:50px; padding: 50px; background-color: beige; text-align: left;}
 .par1{color: firebrick;}
 .par2{color: chartreuse;}
 .par3{color: darkgreen;}
 .par4{color: #A0522D;}
+.barraca-da-jardinagem{display: inline block; width: 130px; height: 150px; background-color: darkkhaki;} 
